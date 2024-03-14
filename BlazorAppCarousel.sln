@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppCarousel", "BlazorAppCarousel\BlazorAppCarousel.csproj", "{74F9638E-3711-40B3-BCBC-DEAD0BEA9A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F9638E-3711-40B3-BCBC-DEAD0BEA9A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F9638E-3711-40B3-BCBC-DEAD0BEA9A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F9638E-3711-40B3-BCBC-DEAD0BEA9A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F9638E-3711-40B3-BCBC-DEAD0BEA9A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814843E5-C51F-4B70-BB71-90BEFA97BE8B}
+	EndGlobalSection
+EndGlobal
